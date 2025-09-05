@@ -1,0 +1,5 @@
+
+### Neu
+ - Individuelles Home-Menü-Design
+ - Überarbeiteter Pausenmodus (unnötige Informationen entfernt)
+ - Grundlegende Performance-Optimierungen
